@@ -1,4 +1,4 @@
-const Test = require('./Test')
+const Test = require('./test')
 
 tst = new Test()
 
